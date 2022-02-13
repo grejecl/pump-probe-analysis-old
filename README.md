@@ -1,7 +1,7 @@
 # pump-probe-analysis
 Package for analysing transient reflectivity time-traces.
 
-Reading datafiles (usually from Tomaž Mertelj's TimeRes program), fft (phonon spectrum) implementation, and fitting with Zeiger-like models[1].
+Visualising and fitting with Zeiger-like model[1].
 
 See *ppa_showcase.py* for a demonstration.
 
